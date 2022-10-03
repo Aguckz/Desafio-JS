@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+body{
+    background-color: lightgreen;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgrey;
+    height: 20vh;
+}
